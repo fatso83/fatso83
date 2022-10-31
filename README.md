@@ -21,3 +21,4 @@ My weak spot is a tendency to [blurt out critique](https://dev.to/kopseng/commen
 1. Python: [exercise-importer](https://github.com/fatso83/ptflow-exercise-importer/blob/master/exercise-importer.py)
 1. Javascript: [loads](https://github.com/fatso83?tab=repositories&q=&type=public&language=javascript)
 1. PHP: [Symfony HTTPFoundation](https://github.com/fatso83/symfony/commit/ff1e2c4a4dcbdf92923314c425b457fab3a7d7ef)
+1. Vimscript: [POC for mocking globals and unit testing](https://github.com/fatso83/coc.nvim/commit/6d7d0d3)
