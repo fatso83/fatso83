@@ -15,7 +15,7 @@ My weak spot is a tendency to [blurt out critique](https://dev.to/kopseng/commen
 1. Typescript: [Jest](https://github.com/facebook/jest/commits?author=fatso83)
 1. Bash: [x-platform lib](https://github.com/fatso83/dotfiles/blob/master/utils/scripts/cross-platform-utils.bashlib), [Git bisect scripts](https://github.com/fatso83/git-bisect-scripts)
 1. C++: [inotify-info](https://github.com/fatso83/inotify-info)
-1. C#: [Geta SEO.Sitemaps](https://github.com/Geta/SEO.Sitemaps/pull/39/commits), [razor-cli](https://github.com/fatso83/razor-cli/blob/master/razor-cli.cs)) (Mono)
+1. C#: [Geta SEO.Sitemaps](https://github.com/Geta/SEO.Sitemaps/pull/39/commits), [razor-cli](https://github.com/fatso83/razor-cli/blob/master/razor-cli.cs) (Mono)
 1. C: [Casio WMP-1](https://github.com/fatso83/casio-wmp1)
 1. Java: [jsp-viewer](https://github.com/fatso83/jsp-viewer)
 1. Python: [exercise-importer](https://github.com/fatso83/ptflow-exercise-importer/blob/master/exercise-importer.py)
