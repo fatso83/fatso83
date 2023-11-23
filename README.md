@@ -11,6 +11,8 @@ My weak spot is a tendency to [blurt out critique](https://dev.to/kopseng/commen
 - Tweets: [@kopseng](https://twitter.com/kopseng)
 - Stack Overflow: [oligofren](https://stackoverflow.com/users/200987/oligofren)
 
+![](https://github-readme-stats.vercel.app/api?username=fatso83&show_icons=true&count_private=true)
+
 #### Programming languages I have dabbled in to scratch some itch
 1. Typescript: [Jest](https://github.com/facebook/jest/commits?author=fatso83)
 1. Bash: [x-platform lib](https://github.com/fatso83/dotfiles/blob/master/utils/scripts/cross-platform-utils.bashlib), [Git bisect scripts](https://github.com/fatso83/git-bisect-scripts)
