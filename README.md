@@ -15,7 +15,7 @@ My weak spot is a tendency to [blurt out critique](https://dev.to/kopseng/commen
 
 #### Programming languages I have dabbled in to scratch some itch
 1. Typescript: [Jest](https://github.com/facebook/jest/commits?author=fatso83)
-1. Bash: [x-platform lib](https://github.com/fatso83/dotfiles/blob/master/utils/scripts/cross-platform-utils.bashlib), [Git bisect scripts](https://github.com/fatso83/git-bisect-scripts)
+1. Bash: [inatur-scripts](https://github.com/fatso83/inatur-scripts), [x-platform lib](/dotfiles/blob/master/utils/scripts/cross-platform-utils.bashlib), [Git bisect scripts](https://github.com/fatso83/git-bisect-scripts)
 1. C++: [inotify-info](https://github.com/fatso83/inotify-info)
 1. C#: [Geta SEO.Sitemaps](https://github.com/Geta/SEO.Sitemaps/pull/39/commits), [razor-cli](https://github.com/fatso83/razor-cli/blob/master/razor-cli.cs) (Mono)
 1. C: [Casio WMP-1](https://github.com/fatso83/casio-wmp1)
@@ -24,3 +24,4 @@ My weak spot is a tendency to [blurt out critique](https://dev.to/kopseng/commen
 1. Javascript: [loads](https://github.com/fatso83?tab=repositories&q=&type=public&language=javascript)
 1. PHP: [Symfony HTTPFoundation](https://github.com/fatso83/symfony/commit/ff1e2c4a4dcbdf92923314c425b457fab3a7d7ef)
 1. Vimscript: [POC for mocking globals and unit testing](https://github.com/fatso83/coc.nvim/commit/6d7d0d3)
+1. Applescript: [Game Warden](https://github.com/fatso83/game-warden) - working around Apple's broken macOS feature to restrict my kids Minecraft playing 
